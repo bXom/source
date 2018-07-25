@@ -13,15 +13,30 @@ A collection of useful utilities.<br>
 $ npm install utility 
 ```
 
-2. superagent
+2. http相关
+
+    - superagent
 
 http方面的库，可以发起get或post请求。
 
 A small progressive client-side HTTP request library.<br>
 [github](https://github.com/visionmedia/superagent)
+✨20k+
 
 ```bash
 $ npm install superagent 
+```
+
+    - request
+
+http请求客户端
+
+Simplified HTTP request client.<br>
+[github](https://github.com/request/request)
+✨13k+
+
+```bash
+$ npm install request
 ```
 
 3. cheerio
