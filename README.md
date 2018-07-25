@@ -2,16 +2,27 @@
 
 ## node.js
 
-1. utility
+1. 工具类库
 
-工具库。
+    - utility
 
-A collection of useful utilities.<br>
-[github](https://github.com/node-modules/utility)
+        A collection of useful utilities.<br>
+        [github](https://github.com/node-modules/utility)
+        ✨800+
 
-```bash
-$ npm install utility 
-```
+        ```bash
+        $ npm install utility 
+        ```
+
+    - lodash
+
+        A modern JavaScript utility library delivering modularity, performance, & extras<br>
+        [github](https://github.com/lodash/lodash)
+        ✨33k+
+
+        ```bash
+        $ npm install lodash
+        ```
 
 2. http相关
 
@@ -26,7 +37,6 @@ $ npm install utility
         ```bash
         $ npm install superagent 
         ```
-
 
     - request
 
