@@ -15,7 +15,7 @@ $ npm install utility
 
 2. http相关
 
-    - superagent
+    1. superagent
 
 http方面的库，可以发起get或post请求。
 
@@ -27,7 +27,7 @@ A small progressive client-side HTTP request library.<br>
 $ npm install superagent 
 ```
 
-    - request
+    2. request
 
 http请求客户端
 
