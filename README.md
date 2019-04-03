@@ -8,7 +8,7 @@
 
         A collection of useful utilities.
 
-        [github:https://github.com/node-modules/utility](https://github.com/node-modules/utility)
+        [GitHub:https://github.com/node-modules/utility](https://github.com/node-modules/utility)
 
         ✨800+
 
@@ -20,7 +20,7 @@
 
         A modern JavaScript utility library delivering modularity, performance, & extras.
 
-        [github:https://github.com/lodash/lodash](https://github.com/lodash/lodash)
+        [GitHub:https://github.com/lodash/lodash](https://github.com/lodash/lodash)
 
         ✨33k+
 
@@ -36,7 +36,7 @@
 
         A small progressive client-side HTTP request library.
 
-        [github:https://github.com/visionmedia/superagent](https://github.com/visionmedia/superagent)
+        [GitHub:https://github.com/visionmedia/superagent](https://github.com/visionmedia/superagent)
 
         ✨20k+
 
@@ -50,7 +50,7 @@
 
         Simplified HTTP request client.
 
-        [github:https://github.com/request/request](https://github.com/request/request)
+        [GitHub:https://github.com/request/request](https://github.com/request/request)
 
         ✨13k+
 
@@ -64,7 +64,7 @@
 
     Fast, flexible & lean implementation of core jQuery designed specifically for the server.
 
-    [github:https://github.com/cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
+    [GitHub:https://github.com/cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
 
     ```bash
     npm install cheerio
@@ -76,7 +76,7 @@
 
     Async is a utility module which provides straight-forward, powerful functions for working with asynchronous JavaScript.
 
-    [github:https://github.com/caolan/async](https://github.com/caolan/async)
+    [GitHub:https://github.com/caolan/async](https://github.com/caolan/async)
 
     ```bash
     npm install async
@@ -93,7 +93,7 @@
     - 无平台依赖，适合前后端，能用于浏览器和Node.js
     - 兼容CMD，AMD以及CommonJS模块环境
 
-    [github:https://github.com/JacksonTian/eventproxy](https://github.com/JacksonTian/eventproxy)
+    [GitHub:https://github.com/JacksonTian/eventproxy](https://github.com/JacksonTian/eventproxy)
 
     ```bash
     npm install eventproxy
@@ -105,7 +105,7 @@
 
     nodemon is a tool that helps develop node.js based applications by automatically restarting the node application when file changes in the directory are detected.
 
-    [github:https://github.com/remy/nodemon](https://github.com/remy/nodemon)
+    [GitHub:https://github.com/remy/nodemon](https://github.com/remy/nodemon)
 
     ```bash
     npm install nodemon
@@ -117,7 +117,7 @@
 
     Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment.
 
-    [github:https://github.com/Automattic/mongoose](https://github.com/Automattic/mongoose)
+    [GitHub:https://github.com/Automattic/mongoose](https://github.com/Automattic/mongoose)
 
     ```bash
     npm install nodemon
@@ -129,7 +129,7 @@
 
     Generate RFC-compliant UUIDs in JavaScript.
 
-    [github:https://github.com/kelektiv/node-uuid](https://github.com/kelektiv/node-uuid)
+    [GitHub:https://github.com/kelektiv/node-uuid](https://github.com/kelektiv/node-uuid)
 
     ```bash
     npm install uuid
@@ -141,7 +141,7 @@
 
     Router middleware for koa.
 
-    [github:https://github.com/alexmingoia/koa-router](https://github.com/alexmingoia/koa-router)
+    [GitHub:https://github.com/alexmingoia/koa-router](https://github.com/alexmingoia/koa-router)
 
     ```bash
     npm install koa-router
@@ -155,4 +155,4 @@
 
     [npm:https://www.npmjs.com/package/cross-env](https://www.npmjs.com/package/cross-env)
 
-    [github:https://github.com/kentcdodds/cross-env](https://github.com/kentcdodds/cross-env)
+    [GitHub:https://github.com/kentcdodds/cross-env](https://github.com/kentcdodds/cross-env)
