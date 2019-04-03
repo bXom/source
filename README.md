@@ -6,7 +6,7 @@
 
     - utility
 
-        A collection of useful utilities.<br>
+        A collection of useful utilities.
         [github](https://github.com/node-modules/utility)
         ✨800+
 
@@ -16,7 +16,7 @@
 
     - lodash
 
-        A modern JavaScript utility library delivering modularity, performance, & extras<br>
+        A modern JavaScript utility library delivering modularity, performance, & extras
         [github](https://github.com/lodash/lodash)
         ✨33k+
 
@@ -30,7 +30,7 @@
 
         http方面的库，可以发起get或post请求。
 
-        A small progressive client-side HTTP request library.<br>
+        A small progressive client-side HTTP request library.
         [github](https://github.com/visionmedia/superagent)
         ✨20k+
 
@@ -42,7 +42,7 @@
 
         http请求客户端
 
-        Simplified HTTP request client.<br>
+        Simplified HTTP request client.
         [github](https://github.com/request/request)
         ✨13k+
 
