@@ -156,3 +156,13 @@
     [npm:https://www.npmjs.com/package/cross-env](https://www.npmjs.com/package/cross-env)
 
     [GitHub:https://github.com/kentcdodds/cross-env](https://github.com/kentcdodds/cross-env)
+
+11. config
+
+    根据环境变量自动匹配对应的配置文件，支持.js, .ts, .yml, .yaml, .xml, .coffee, .cson, .properties, .json, .json5, .hjson
+
+    Node-config organizes hierarchical configurations for your app deployments.
+
+    [npm:https://www.npmjs.com/package/config](https://www.npmjs.com/package/config)
+
+    [GitHub:https://github.com/lorenwest/node-config](https://github.com/lorenwest/node-config)
